@@ -1,7 +1,5 @@
 # Privacy Policy
 
-**Effective Date:** [Insert Date]
-
 **Virtaeus Studio** (“we”, “us”, or “our”) is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile applications or games (“Apps”), available through the Google Play Store.
 
 By using our Apps, you agree to the collection and use of information in accordance with this policy. If you do not agree with our practices, please do not use our Apps.
